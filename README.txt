@@ -7,7 +7,7 @@ The version attached to this e-mail has another workflow step added - instead of
 
 Prerequisites:
 
-To get tesseract and ImageMagick the easiest thing to do is use Homebrew (sort of like Macports but not big and scary)
+To get tesseract and ImageMagick the easiest thing to do is use Homebrew (sort of like Macports but more streamlined)
 
 Run these commands in a Terminal:
 
