@@ -1,7 +1,7 @@
 
 Author: Alexander O'Neill - http://twitter.com/alxp - aloneill@gmail.com
 
-This is an Automator script which uses Tesseract (The software underneath OCRopus) to OCR any page you scan in Image Capture, if you have the OCR workflow plugin selected. It seems to work pretty well for me so I thought I would share it. Unlike ABBYY it doesn't produce text-enhanced PDFs, just a txt, but for my purposes it's all I needed. Kris and Donald, you might find it useful to replace the Tesseract part with a call to something that invokes ABBYY over SFTP.
+This is an Automator script which uses Tesseract (The software underneath OCRopus) to OCR any page you scan in Image Capture, if you have the OCR workflow plugin selected. It seems to work pretty well for me so I thought I would share it. Unlike ABBYY it doesn't produce text-enhanced PDFs, just a txt, but for my purposes it's all I needed. 
 
 The version attached to this e-mail has another workflow step added - instead of acting as an image capture plugin it prompts for Finder items.  To use this with image capture simply open the file in Automator, delete the first workflow step, and save it to ~/Library/Workflows/Applications/Image Capture.
 
